@@ -3,6 +3,12 @@
 * Asus
 1. Asus Zenfone Max Pro M1 (X00TD)
 
+* Motorola
+1. Motorola One Fusion+ (liber)
+
+* OnePlus
+1. OnePlus 8T/9R (lemonkebab)
+
 * POCO
 1. Poco F1 (Beryllium) 
 2. Poco F3/Mi 11x/Redmi K40 (Alioth)
