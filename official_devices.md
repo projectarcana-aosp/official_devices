@@ -3,6 +3,9 @@
 * Asus
 1. Asus Zenfone Max Pro M1 (X00TD)
 
+* Lenovo
+1. Lenovo Z5s (jd2019)
+
 * Motorola
 1. Motorola One Fusion+ (liber)
 
@@ -19,7 +22,7 @@
 1. Realme 5/5i/5s (r5x)
 2. Realme 5 Pro/Q (RMX1971)
 
-* Xiaomi
+* Xiaomi (Mi/Redmi)
 1. Mi 8 Lite (Platina)
 2. Redmi Note 4X (Mido)
 3. Redmi 5 Plus/Note 5 India (vince)
