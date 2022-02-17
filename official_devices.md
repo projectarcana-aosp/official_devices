@@ -6,9 +6,6 @@
 * Lenovo
 1. Lenovo Z5s (jd2019)
 
-* Motorola
-1. Motorola One Fusion+ (liber)
-
 * OnePlus
 1. OnePlus 8T/9R (lemonkebab)
 
@@ -17,10 +14,6 @@
 2. Poco F3/Mi 11x/Redmi K40 (Alioth)
 3. Poco X2 (Phoenix)
 4. Poco X3 Pro (Vayu/Bhima)
-
-* Realme  
-1. Realme 5/5i/5s (r5x)
-2. Realme 5 Pro/Q (RMX1971)
 
 * Xiaomi (Mi/Redmi)
 1. Mi 8 Lite (Platina)
