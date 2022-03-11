@@ -12,11 +12,10 @@
 * OnePlus
 1. OnePlus 8T/9R (lemonkebab)
 
-* POCO
-1. Poco F1 (Beryllium) 
-2. Poco F3/Mi 11x/Redmi K40 (Alioth)
-3. Poco X2 (Phoenix)
-4. Poco X3 Pro (Vayu/Bhima)
+* POCO 
+1. Poco F3/Mi 11x/Redmi K40 (Alioth)
+2. Poco X2 (Phoenix)
+3. Poco X3 Pro (Vayu/Bhima)
 
 * Xiaomi (Mi/Redmi)
 1. Mi 8 Lite (Platina)
